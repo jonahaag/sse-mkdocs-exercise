@@ -5,6 +5,7 @@ nav:
         - 'Installation': 'compilation-and-installation.md'
         - 'Getting started': 'how-to.md'
 repo_url: https://github.com/jonahaag/sse-mkdocs-exercise
+edit_uri: edit/main/docs
 site_author: Jonathan Haag
 #theme:
 #    name: readthedocs
