@@ -6,7 +6,7 @@ nav:
         - 'Getting started': 'how-to.md'
 repo_url: https://github.com/jonahaag/sse-mkdocs-exercise
 site_author: Jonathan Haag
-theme:
-    name: readthedocs
-    titles_only: True
-    prev_next_buttons_location: none
+#theme:
+#    name: readthedocs
+#    titles_only: True
+#    prev_next_buttons_location: none
